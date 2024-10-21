@@ -1,0 +1,1 @@
+{"name":"Local: 17","url":"/Users/adam/Documents/Adam/Coding/Strivers/DSA/Patterns/17.py","tests":[{"id":1729505635891,"input":"5","output":"        A \n      A B A \n    A B C B A \n  A B C D C B A \nA B C D E D C B A "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/adam/Documents/Adam/Coding/Strivers/DSA/Patterns/17.py","group":"local","local":true}
